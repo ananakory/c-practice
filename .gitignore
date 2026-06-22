@@ -1,0 +1,9 @@
+# C 编译产物
+*.exe
+*.out
+*.o
+*.obj
+
+# 编辑器
+.vscode/
+*.swp
